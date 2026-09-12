@@ -1,0 +1,6 @@
+{
+  "name": "Interactive 3D Animated Veggie",
+  "description": "A tactile procedural 3D vegetable playground in Three.js featuring spring physics, custom wardrobe, squish sculpting, and interactive companions. Designed and developed by Dhurgham Alsaadi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
